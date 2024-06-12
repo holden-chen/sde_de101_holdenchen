@@ -1,0 +1,14 @@
+##Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements?
+
+I would start by identifying who my end-users are, including other systems, and then try to understand the problem to be solved with data analytics. What questions are end-users trying to answer? For this, I would talk to the users who will be using data analytics. I'd
+interview them to identify the decisions they're looking to support with data. This will help me identify the sources of the data that I will likely need to extract from.
+
+Transform?
+There will likely be requirements to transform the data from the sources. My guess is that these requirements will be shaped by many factors, but could be the destination system, platform or standard specific formatting/structure,
+
+Destination? 
+I will need to identify a destination system for my use case. This may depend on the user needs and and technical requirements.
+
+Develop a data model? 
+I will need to model the data for queries. There may also be performance requirements. How often will user need access to the data, expectation of reliability? Do I need to consider scalability?
+Will also want to ensure that data quality is maintained.
