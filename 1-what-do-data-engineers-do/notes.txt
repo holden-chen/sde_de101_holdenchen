@@ -1,5 +1,7 @@
 Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements?
 
+Think about what you know about a data engineer's responsibilities.
+
 I would start by identifying who my end-users are, including other systems, and then try to understand the problem to be solved with data analytics. What questions are end-users trying to answer? For this, I would talk to the users who will be using data analytics. I'd
 interview them to identify the decisions they're looking to support with data. This will help me identify the sources of the data that I will likely need to extract from.
 
@@ -12,3 +14,9 @@ I will need to identify a destination system for my use case. This may depend on
 Develop a data model? 
 I will need to model the data for queries. There may also be performance requirements. How often will user need access to the data, expectation of reliability? Do I need to consider scalability?
 Will also want to ensure that data quality is maintained.
+
+Scheduling?
+Would the data be updated at any point in time? If so, there will likely be a need for scheduling 
+
+Monitoring? 
+Could be good idea to research relevant polices and regulations that need to be followed for monitoring. It may be a best practitce in the organziation to have monitoring set up anyway.
